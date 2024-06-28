@@ -1,0 +1,14 @@
+D:\Projects\Supernatural Inheritance (C#)\bin\Debug\net8.0\Supernatural Inheritance (C#).exe
+D:\Projects\Supernatural Inheritance (C#)\bin\Debug\net8.0\Supernatural Inheritance (C#).deps.json
+D:\Projects\Supernatural Inheritance (C#)\bin\Debug\net8.0\Supernatural Inheritance (C#).runtimeconfig.json
+D:\Projects\Supernatural Inheritance (C#)\bin\Debug\net8.0\Supernatural Inheritance (C#).dll
+D:\Projects\Supernatural Inheritance (C#)\bin\Debug\net8.0\Supernatural Inheritance (C#).pdb
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\Supernatural Inheritance (C#).GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\Supernatural Inheritance (C#).AssemblyInfoInputs.cache
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\Supernatural Inheritance (C#).AssemblyInfo.cs
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\Supernatural Inheritance (C#).csproj.CoreCompileInputs.cache
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\Supernatural Inheritance (C#).dll
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\refint\Supernatural Inheritance (C#).dll
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\Supernatural Inheritance (C#).pdb
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\Supernatural Inheritance (C#).genruntimeconfig.cache
+D:\Projects\Supernatural Inheritance (C#)\obj\Debug\net8.0\ref\Supernatural Inheritance (C#).dll
